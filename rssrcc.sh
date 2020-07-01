@@ -17,5 +17,5 @@ echo "<?xml version=\"1.0\" encoding=\"UTF-8\"?>
 <body>
 $(body "$1")
 </body>
-</ompl>
+</opml>
 "
